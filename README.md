@@ -1,1 +1,3 @@
 # Imat
+#define _XTAL FREQ 4000000
+#SONMEZ
